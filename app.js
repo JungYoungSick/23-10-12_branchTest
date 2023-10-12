@@ -13,3 +13,5 @@ server.listen(3500, (err)=> {
     console.log("3500 포트에 돌아감 http://localhost:3500");
   }
 });
+
+// 충돌이 일어나게 실험하는 File 테스트
